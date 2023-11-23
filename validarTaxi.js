@@ -5,7 +5,7 @@ let vehicle= {
     model: "Camry",
     color: "White",
     licensePlate: "ABC-0123",
-    year: 2009,
+    year: Number (prompt ("Escriba el año de su vehículo")),
     isEnable: false
 };
 
